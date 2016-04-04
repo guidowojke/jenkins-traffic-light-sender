@@ -15,3 +15,5 @@
   * Jenkins (for status examples)
   * Http or Tomcat Server for running registration module
   * Small Database??
+
+<img src="https://api.travis-ci.org/guidowojke/jenkins-traffic-light-sender.svg" />
