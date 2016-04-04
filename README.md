@@ -1,4 +1,4 @@
-# jenkins-traffic-light-sender
+# jenkins-traffic-light-sender <img src="https://api.travis-ci.org/guidowojke/jenkins-traffic-light-sender.svg" />
 
 ## TODOs
   * create a registration module for Users ( ID -> user + jenkins jobs to Watch)
@@ -15,5 +15,3 @@
   * Jenkins (for status examples)
   * Http or Tomcat Server for running registration module
   * Small Database??
-
-<img src="https://api.travis-ci.org/guidowojke/jenkins-traffic-light-sender.svg" />
